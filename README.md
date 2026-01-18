@@ -1,3 +1,8 @@
+---
+layout: default
+robots: noindex
+---
+
 # Verboten Shopify Store Theme Admin Guide
 Author: Sandesh K, v2
 
